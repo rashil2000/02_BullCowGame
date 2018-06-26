@@ -1,0 +1,1 @@
+# An empty guess is taken in after user tries to or changes the hidden word.
